@@ -3,7 +3,7 @@
     {
       "id": "com.shumaistudio.game1",
       "name": "FocusApp",
-      "version_code": 2,
+      "version_code": 1,
       "version_name": "1.1.0",
       "description": "集中力を高めるフォーカスアプリ。",
       "icon_url": "https://raw.githubusercontent.com/shumaistudio/focusapp/main/focusappicon.png",
@@ -13,12 +13,22 @@
     {
       "id": "com.shumaistudio.game2",
       "name": "shumaibird",
-      "version_code": 3,
+      "version_code": 1,
       "version_name": "1.1.0",
       "description": "可愛げなキャラを操作してハイスコアを目指そう！タップだけの簡単操作でとても面白い。隠しステージも..",
       "icon_url": "https://raw.githubusercontent.com/shumaistudio/shumaibird/main/icon.png",
       "apk_url": "https://github.com/shumaistudio/shumaibird/releases/download/shumaibird/shumaibird.apk",
       "file_size_mb": 34.5
+    },
+    {
+      "id": "com.shumaistudio.game3",
+      "name": "",
+      "version_code": 1,
+      "version_name": "1.1.0",
+      "description": "このゲームでタッチパネルを使って、ボールを操作し、コインをゲットしたり溶岩を避けながらハイスコアを目指そう！",
+      "icon_url": "https://raw.githubusercontent.com/shumaistudio/BallRollingGame/refs/heads/main/icon.png",
+      "apk_url": "https://github.com/shumaistudio/BallRollingGame/releases/download/APK/BallRollingGame.APK.apk",
+      "file_size_mb": 56.4
     }
   ]
 }
