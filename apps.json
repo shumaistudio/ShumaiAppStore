@@ -22,7 +22,7 @@
     },
     {
       "id": "com.shumaistudio.game3",
-      "name": "",
+      "name": "BallRollingGame",
       "version_code": 1,
       "version_name": "1.1.0",
       "description": "このゲームでタッチパネルを使って、ボールを操作し、コインをゲットしたり溶岩を避けながらハイスコアを目指そう！",
